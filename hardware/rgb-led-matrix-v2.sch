@@ -6354,4 +6354,19 @@ Wire Wire Line
 	14450 6850 14450 7000
 Connection ~ 14450 7000
 NoConn ~ 14250 8100
+Wire Wire Line
+	7450 5750 7450 5900
+Connection ~ 7450 5900
+Wire Wire Line
+	7450 4650 7450 4800
+Connection ~ 7450 4800
+Wire Wire Line
+	7450 6850 7450 7000
+Connection ~ 7450 7000
+Wire Wire Line
+	7450 7950 7450 8100
+Connection ~ 7450 8100
+Wire Wire Line
+	7450 3550 7450 3700
+Connection ~ 7450 3700
 $EndSCHEMATC
