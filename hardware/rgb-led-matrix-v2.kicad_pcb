@@ -39,7 +39,7 @@
   )
 
   (setup
-    (last_trace_width 0.45)
+    (last_trace_width 0.2)
     (user_trace_width 0.25)
     (user_trace_width 0.45)
     (user_trace_width 0.5)
@@ -77,9 +77,9 @@
     (grid_origin 112.3 54.3)
     (visible_elements FFFFF7FF)
     (pcbplotparams
-      (layerselection 0x010f8_ffffffff)
-      (usegerberextensions false)
-      (usegerberattributes false)
+      (layerselection 0x010fc_ffffffff)
+      (usegerberextensions true)
+      (usegerberattributes true)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
       (excludeedgelayer true)
@@ -8034,7 +8034,7 @@
   (segment (start 134.75 97.7) (end 136.85 97.7) (width 0.2) (layer Vorderseite) (net 82) (tstamp 5C5942A3))
   (segment (start 129.85 107.9) (end 127.75 107.9) (width 0.2) (layer Vorderseite) (net 83) (tstamp 5C594A3F))
 
-  (zone (net 1) (net_name GND) (layer Rückseite) (tstamp 5C5A0BCC) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer Rückseite) (tstamp 5C59BD1F) (hatch edge 0.508)
     (connect_pads (clearance 0.2))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
